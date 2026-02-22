@@ -5,13 +5,20 @@ This project was built to practice modern Android development, including UI with
 
 ## 📸 Screenshots ->
 
+MAIN SCREEN :  ![Image](https://github.com/user-attachments/assets/b4f64075-d840-4674-92d6-3d938bddd13c)
+
+MAIN SCREEN (ALARM CARDS) :  ![Image](https://github.com/user-attachments/assets/5a17b191-2cf8-4f0a-ba9f-27abc6ad36a0)
+
+SET ALARAM : ![Image](https://github.com/user-attachments/assets/2cd2f435-4f88-42eb-a414-001e59f032a7)
+
+CHOOSE CHALLENGE : ![Image](https://github.com/user-attachments/assets/7f177521-39a3-4286-92e5-878ca7304e87)
+
+ALARAM SCREEN : ![Image](https://github.com/user-attachments/assets/ef88f184-e1ed-495f-877d-7e68e931aa3a)
+
+
   
 
-
-
-  
-
-## ✨ Features
+## ✨ Features ->
 
 *   **Custom Alarms:** Set alarms using a modern time picker.
 *   **Multiple Wake-Up Challenges:**
@@ -22,7 +29,7 @@ This project was built to practice modern Android development, including UI with
 *   **Full-Screen Alarm:** The alarm screen appears over the lock screen, plays a sound, and vibrates to ensure the user wakes up.
 *   **Dynamic UI:** The ringing screen adapts its instructions based on the selected task.
 
-## 🛠️ Built With
+## 🛠️ Built With ->
 
 *   **UI:** [Jetpack Compose](https://developer.android.com/jetpack/compose) for modern, declarative UI.
 *   **Architecture:** State management using `mutableStateOf`, `remember`, and `ViewModel` (if you used one).
@@ -40,6 +47,4 @@ This project was built to practice modern Android development, including UI with
 *   The importance of handling Android permissions (like `SCHEDULE_EXACT_ALARM` and `ACTIVITY_RECOGNITION`).
 *   Saving and loading data locally on the device.
 
-## 📞 Contact
 
-[Your Name] - [Your LinkedIn Profile URL] - [Your Email (Optional)]
