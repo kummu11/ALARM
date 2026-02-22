@@ -80,6 +80,7 @@ import kotlin.time.Duration.Companion.hours
 import android.R.attr.icon
 import android.R.attr.text
 import androidx.compose.foundation.layout.PaddingValues
+import com.example.alarm.ui.theme.ALARMTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
