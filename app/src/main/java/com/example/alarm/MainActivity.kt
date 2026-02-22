@@ -81,7 +81,6 @@ import android.R.attr.icon
 import android.R.attr.text
 import androidx.compose.foundation.layout.PaddingValues
 
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -301,7 +300,8 @@ fun setAlarmPage() {
                             Text("Choose your pain.",
                                 textAlign = TextAlign.Center,
                                 modifier = Modifier.fillMaxWidth(),
-                                color = Color(0xFFEDEFF4) )
+                                color = Color(0xFFEDEFF4)
+                            )
                            }
                         },
                     containerColor = Color(0xFF1F2933),
